@@ -1,0 +1,15 @@
+import random
+number = random.randint(1,10)
+guess = int(input("Guess a number"))
+
+while(True):
+    if(guess>number):
+        print("Guess a another number!. This is a to big")
+        count=1
+    elif(guess<number):
+        print("Guess a another number!. This is a to less")
+        count=1
+    else:
+        print("you win! you guessed right number")
+    break
+

@@ -1,0 +1,17 @@
+myfile= open("poem.txt","a")
+myfile.write("Twinkle twinkle little star.")
+myfile.write("How I wonder what you are.")
+myfile.write("Up above the world so high.")
+myfile.write("Like a diamond in the sky.")
+myfile.write("Twinkle twinkle little star.")
+myfile.write("How I wonder what you are.")
+
+myfile.write("Twinkle twinkle little star.")
+myfile.write("How I wonder what you are.")
+myfile.write("Up above the world so high.")
+myfile.write("Like a diamond in the sky.")
+myfile.write("Twinkle twinkle little star.")
+myfile.write("How I wonder what you are.")
+print("txt")
+
+myfile.close()

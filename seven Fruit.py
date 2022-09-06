@@ -1,0 +1,10 @@
+F1= input("Enter Fruit Number1: ")
+F2=input("Enter Fruit Number2: ")
+F3=input("Enter Fruit Number3: ")
+F4=input("Enter Fruit Number4: ")
+F5=input("Enter Fruit Number5: ")
+F6=input("Enter Fruit Number6: ")
+F7=input("Enter Fruit Number7: ")
+
+my_fruitlist=(F1,F2,F3,F4,F5,F6,F7)
+print(my_fruitlist)
